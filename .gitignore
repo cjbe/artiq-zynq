@@ -1,0 +1,10 @@
+gateware/build
+misoc_*
+*.o
+*.a
+*.d
+*.elf
+*.bin
+*.lock
+*.vcd
+__pycache__

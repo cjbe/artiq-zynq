@@ -1,0 +1,14 @@
+[package]
+name = "board_misoc"
+version = "0.1.0"
+authors = ["cjb <cjb>"]
+
+
+
+
+[dependencies]
+
+[lib]
+path="lib.rs"
+name = "board_misoc"
+

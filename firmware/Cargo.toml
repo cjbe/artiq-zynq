@@ -1,0 +1,7 @@
+[workspace]
+members = ["runtime"]
+
+[profile.dev]
+incremental = true
+lto = false
+opt-level = 2
